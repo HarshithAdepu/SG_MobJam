@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b2e291e0fc91b754bba333e6364bb8eb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294198
+  packageName: Smart Grids Toolkit
+  packageVersion: 1.1
+  assetPath: Assets/Nearmint Studios/Smart Grids Toolkit/Demo/GridGenerator.cs
+  uploadId: 694270

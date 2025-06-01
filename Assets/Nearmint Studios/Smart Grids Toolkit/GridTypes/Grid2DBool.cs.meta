@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e4f832af3a875614c862ed6312be1c7b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294198
+  packageName: Smart Grids Toolkit
+  packageVersion: 1.1
+  assetPath: Assets/Nearmint Studios/Smart Grids Toolkit/GridTypes/Grid2DBool.cs
+  uploadId: 694270

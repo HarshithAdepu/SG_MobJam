@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3514eab202179c742b02df5fef5dbb50
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294198
+  packageName: Smart Grids Toolkit
+  packageVersion: 1.1
+  assetPath: Assets/Nearmint Studios/Smart Grids Toolkit/Editor/WindowPopUps/GridSizePopupWindow.cs
+  uploadId: 694270

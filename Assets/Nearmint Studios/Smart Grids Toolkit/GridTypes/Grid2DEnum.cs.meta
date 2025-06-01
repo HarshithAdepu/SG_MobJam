@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3f8aa34653a72ea40a3bf6a7671a621b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294198
+  packageName: Smart Grids Toolkit
+  packageVersion: 1.1
+  assetPath: Assets/Nearmint Studios/Smart Grids Toolkit/GridTypes/Grid2DEnum.cs
+  uploadId: 694270

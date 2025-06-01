@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 09ea2ae82150bd246bb58a2dfb7176b6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294198
+  packageName: Smart Grids Toolkit
+  packageVersion: 1.1
+  assetPath: Assets/Nearmint Studios/Smart Grids Toolkit/GridTypes/Grid2DString.cs
+  uploadId: 694270

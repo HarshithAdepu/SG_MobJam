@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c76a2f7f181115c4e8ce76a1d16df718
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294198
+  packageName: Smart Grids Toolkit
+  packageVersion: 1.1
+  assetPath: Assets/Nearmint Studios/Smart Grids Toolkit/GridTypes/Grid2DFloat.cs
+  uploadId: 694270

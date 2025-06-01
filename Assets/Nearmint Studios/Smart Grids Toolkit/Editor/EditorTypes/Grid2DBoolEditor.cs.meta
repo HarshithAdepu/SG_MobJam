@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: cbc2646edd380e8498506ae352ebcdfe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294198
+  packageName: Smart Grids Toolkit
+  packageVersion: 1.1
+  assetPath: Assets/Nearmint Studios/Smart Grids Toolkit/Editor/EditorTypes/Grid2DBoolEditor.cs
+  uploadId: 694270

@@ -1,0 +1,193 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41e1e9a467ae7ca4aa5e70cc1cbdb3a6, type: 3}
+  m_Name: Level3
+  m_EditorClassIdentifier: 
+  levelName: Level 3
+  towerPrefab: {fileID: 2825664559882373768, guid: a45774aa258faec4ea6c4cc865026ad1, type: 3}
+  npcPrefab: {fileID: 4947283758000244780, guid: 5060af6b397c9ed4ba9d3432c1b1ec6e, type: 3}
+  guardPrefab: {fileID: 6581703366472892783, guid: 61231f30028919c4aaced6a94f86246f, type: 3}
+  unitBlockPrefab: {fileID: 1290341140776871336, guid: a526a4aa2a6916a42920d5790f1ce827, type: 3}
+  npcDieOnKill: 1
+  npcsPerBlock: 3
+  wallPrefab: {fileID: 2391866299811566358, guid: 4d1ddd8bfb4b79c49959996ee5420283, type: 3}
+  exitPrefab: {fileID: 2391866299811566358, guid: e58acea346fc8e643b1586f8e2de190d, type: 3}
+  exitModifierRange: {x: -5, y: 20}
+  gridLayout:
+    CellWidth: 30
+    CellHeight: 20
+    PaddingW: 5
+    PaddingH: 5
+    CustomCellSizeSet: 0
+    CustomPaddingSet: 0
+    Grid:
+    - items:
+      - '-'
+      - '-'
+      - '-'
+      - ye1
+      - ye1
+      - ye1
+      - ye1
+      - ye1
+      - '-'
+      - '-'
+      - '-'
+      - '-'
+    - items:
+      - '-'
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - yb1
+      - 
+      - '-'
+    - items:
+      - pe1
+      - 
+      - 
+      - 
+      - pb1
+      - 
+      - 
+      - 
+      - yb1
+      - yb1
+      - 
+      - '-'
+    - items:
+      - '-'
+      - bb1
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - yb2
+      - 
+      - 
+      - be1
+    - items:
+      - '-'
+      - 
+      - 
+      - 
+      - 
+      - yb3
+      - 
+      - yb2
+      - yb2
+      - 
+      - 
+      - '-'
+    - items:
+      - '-'
+      - 
+      - bb2
+      - yb4
+      - 
+      - 
+      - bb3
+      - 
+      - 
+      - 
+      - yb9
+      - '-'
+    - items:
+      - ye2
+      - pb2
+      - yb4
+      - yb4
+      - 
+      - yb5
+      - 
+      - 
+      - 
+      - yb9
+      - yb9
+      - '-'
+    - items:
+      - '-'
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - bb4
+      - 
+      - '-'
+    - items:
+      - '-'
+      - 
+      - pb3
+      - 
+      - pb5
+      - yb6
+      - 
+      - yb7
+      - bb4
+      - bb4
+      - 
+      - '-'
+    - items:
+      - '-'
+      - pb4
+      - 
+      - pb5
+      - pb5
+      - pb5
+      - yb7
+      - yb7
+      - yb7
+      - 
+      - bb5
+      - '-'
+    - items:
+      - '-'
+      - 
+      - 
+      - 
+      - 
+      - yb8
+      - 
+      - 
+      - 
+      - 
+      - 
+      - '-'
+    - items:
+      - '-'
+      - be2
+      - be2
+      - be2
+      - be2
+      - '-'
+      - '-'
+      - pe2
+      - pe2
+      - pe2
+      - '-'
+      - '-'
+    WidthCount: 12
+    HeightCount: 12
+  timeLimit: 120
+  towerHealth: 200
+  guardGrid: {x: 20, y: 10}
